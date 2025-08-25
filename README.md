@@ -2,6 +2,7 @@
 
 This project is a **product landing page** designed to showcase tabletop RPG (TT-RPG) books in a visually appealing and user-friendly format.  
 The page is built using **HTML and CSS** with a focus on responsive layout, navigation, and interactive elements.
+This project is part of the **Responsive Web Design Certification** from [freeCodeCamp](https://www.freecodecamp.org/). 
 
 ---
 
